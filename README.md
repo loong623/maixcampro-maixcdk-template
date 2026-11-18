@@ -75,7 +75,7 @@ wsl --shutdown
 mkdir -p ~/rm_projects
 cd ~/rm_projects
 # 将本仓库复制或克隆到这里，例如：
-# git clone <本仓库地址> rm_hello_world
+# git clone https://github.com/loong623/maixcampro-maixcdk-template.git rm_hello_world
 cd rm_hello_world
 ```
 
