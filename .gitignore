@@ -1,0 +1,11 @@
+# MaixCDK 生成物
+build/
+dist/
+.config.mk
+.flash.conf.json
+data/
+/CMakeLists.txt
+
+# Python / editor
+__pycache__/
+.vscode/

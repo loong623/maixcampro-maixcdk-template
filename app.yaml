@@ -1,0 +1,8 @@
+id: rm_hello_world
+name: RM Hello World Template
+name[zh]: 校内赛 Hello World 模板
+version: 1.0.0
+author: RM Vision Group
+desc: Minimal MaixCDK C++ template for MaixCAM Pro
+desc[zh]: 面向 MaixCAM Pro 的最小 MaixCDK C++ 模板
+files: []
